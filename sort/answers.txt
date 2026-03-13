@@ -1,0 +1,12 @@
+sort1 uses: Bubble sort.
+
+How do you know?: It performs the slowest on the reversed list. That is because the bubble sort algorithm has to iterate through the list and "push" the biggest number to the end.
+it has to do that as a worst case scenario O(n^2) times. It also performs the fastest on the already sorted list.
+
+sort2 uses: Merge sort.
+
+How do you know?: sort2 performs significantly faster on large randomly generated lists which matches merge sort.
+
+sort3 uses: Selection sort.
+
+How do you know?:
